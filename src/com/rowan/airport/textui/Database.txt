@@ -1,0 +1,15 @@
+City=1,Glassboro Airport
+City=2,Philadelphia International Airport
+City=3,JFK
+City=4,Atlantic City
+City=5,Lancaster
+Plane=1,10
+Plane=2,15
+Plane=3,20
+Customer=1,Michael Jackson,123 Walnut Ave
+Customer=2,Matt Dalzell,456 Riverside Ave
+Customer=3,Amanda Bynes,789 South Street
+Customer=4,Kyle Davis,327 Wood Street
+Flight=1,2,1,2,5/8/2012 5:30,5/8/2012 6:00
+Flight=2,2,2,3,7/31/2012 2:30,7/31/2012 3:30
+Flight=3,3,3,4,6/27/2012 10:00,6/27/2012 11:00
